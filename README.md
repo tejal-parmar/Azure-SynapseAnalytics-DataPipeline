@@ -1,4 +1,5 @@
 # azure-data-engineering-project
+Build a data pipeline using Azure Synapse Analytics, Azure Storage and Azure Synapse SQL pool to perform data analysis on the 2021 Olympics dataset.
 Real time end-to-end Azure Data Engineering project to analyze Olympic data using various tools and technologies, including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
 
   - Extract data from the API using <b>ADF</b> (Azure Data Factory - data pipeline tool available on Azure)
