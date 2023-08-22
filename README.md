@@ -13,3 +13,5 @@ Real time end-to-end Azure Data Engineering project to analyze Olympic data usin
   - <b>Data Lake Gen 2</b> : Data lake solution that combines the capabilities of a data lake with the power of Azure Blob Storage, allowing you to store and analyze large volumes of structured and unstructured data with enhanced performance, security, and analytics capabilities, can perform SQL queries.
   - <b>Azure Databricks</b> : Databricks is a unified analytics platform built on top of Apache Spark, designed to help data engineers and data scientists collaborate on big data processing and machine learning tasks. It provides tools for data exploration, data processing, and building machine learning models in a collaborative and scalable environment.
   - <b>Synapse Analytics</b> : SQL Data Warehouse, is a cloud-based analytics service provided by Microsoft Azure. It combines big data and data warehousing into a single integrated platform, allowing organizations to analyze and process large volumes of data for business intelligence and data analytics purposes.
+
+Original Dataset : [Source](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
