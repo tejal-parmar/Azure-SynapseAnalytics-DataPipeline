@@ -15,3 +15,18 @@ Real time end-to-end Azure Data Engineering project to analyze Olympic data usin
   - <b>Synapse Analytics</b> : SQL Data Warehouse, is a cloud-based analytics service provided by Microsoft Azure. It combines big data and data warehousing into a single integrated platform, allowing organizations to analyze and process large volumes of data for business intelligence and data analytics purposes.
 
 Original Dataset : [Source](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
+
+## Project Steps
+  - Understanding the 2021 Olympics dataset
+  - Creating Azure Resource Group
+  - Creating Azure Storage account
+  - Creating a container in Azure Storage
+  - Uploading data files in Azure Storage Container
+  - Creating a Azure Synapse workspace
+  - Creating a SQL pool in Azure Synapse workspace
+  - Creating tables in SQL pool
+  - Create a pipeline to ingest data from Azure storage into SQL pool tables
+  - Load data from Azure Synapse into Power BI
+  - Creating visualizations in Power BI
+  - Publishing Power BI dashboard in Azure Synapse workspace.
+
