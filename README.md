@@ -1,10 +1,10 @@
 # azure-data-engineering-project
 Real time end-to-end Azure Data Engineering project to analyze Olympic data using various tools and technologies, including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
 
-  - Extract data from the API using Azure Data Factory (data pipeline tool available on Azure)
-  - Load data onto Azure Data Lake Gen 2 storage
-  - Using Azure Databricks, to write spark code, transform the data and load the data back to Azure Data Lake Gen 2 storage
-  - Using Synapse Analytics, to run SQL queries on top of the transformed data, to get the insights and visualization
+  - Extract data from the API using <b>ADF</b> (Azure Data Factory - data pipeline tool available on Azure)
+  - Load data onto <b>Azure Data Lake Gen 2 storage</b>
+  - Using <b>Azure Databricks</b>, to write spark code, transform the data and load the data back to Azure Data Lake Gen 2 storage
+  - Using <b>Synapse Analytics</b>, to run SQL queries on top of the transformed data, to get the insights and visualization
 
 #AzureCloud #Databricks #DataFactory #Spark #SynapseAnalytics #DataLake
 
