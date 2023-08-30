@@ -28,5 +28,5 @@ Original Dataset : [Source](https://www.kaggle.com/datasets/arjunprasadsarkhel/2
   - Create a pipeline to ingest data from Azure storage into SQL pool tables
   - Load data from Azure Synapse into Power BI
   - Creating visualizations in Power BI
-  - Publishing Power BI dashboard in Azure Synapse workspace.
+  - Publishing Power BI dashboard in Azure Synapse workspace
 
