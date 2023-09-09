@@ -6,6 +6,9 @@ Real time end-to-end Azure Data Engineering project to build a data pipeline usi
   - Using <b>Azure Databricks</b>, to write spark code, transform the data and load the data back to Azure Data Lake Gen 2 storage
   - Using <b>Synapse Analytics</b>, to run SQL queries on top of the transformed data, to get the insights and visualization
 
+![ArchitectureDiagram](https://github.com/tejal-parmar/Azure-SynapseAnalytics-DataPipeline/assets/111147531/28ccc30c-416a-42dd-9e7f-6ae7a62a8372)
+
+
 #AzureCloud #Databricks #DataFactory #Spark #SynapseAnalytics #DataLake
 
 ## Azure Services
